@@ -1,0 +1,32 @@
+.marks{
+   
+    font-size: 24px
+}
+.highlight{
+    color: royalblue;
+    font-size: 64px;
+    font-weight: 900;
+}
+.desc{
+    color: rgb(66, 219, 28);
+}
+.bottom-box{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 200px;
+    border-radius:65px;
+    box-shadow: 0px 2px 3px grey;
+    background-color:lightblue;
+    background-image: url(assets/icons8-css-48.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+    padding: 15px;;
+  
+}
+.arrow-icon{
+     height: 50px;
+    
+}
